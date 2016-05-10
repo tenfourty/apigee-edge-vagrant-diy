@@ -1,0 +1,8 @@
+.vagrant
+.Vagrantfile.swp
+*.swp
+*.swo
+.DS_Store
+.idea
+site.retry
+vagrant_aio_provision.retry
